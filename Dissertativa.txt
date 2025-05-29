@@ -1,0 +1,17 @@
+Entrada: Solicitar o valor de 𝑛
+n para o qual deseja calcular a multiplicação de 9.
+Processamento:
+Calcular o primeiro dígito (digito1) como 
+𝑛
+−
+1
+n−1.
+Calcular o segundo dígito (digito2) como 
+10
+−
+𝑛
+10−n.
+Montar o resultado final multiplicando digito1 por 10 e somando digito2.
+Saída: Exibir o resultado da multiplicação de 9 por 
+𝑛
+n.
